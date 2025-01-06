@@ -2,7 +2,7 @@ package com.variaveis;
 
 import java.util.Scanner;
 
-public class CalculoMédiaConceito {
+public class CalculoMediaConceito {
     public static void main(String[] args) {
 
         double nota1, nota2, nota3, media;

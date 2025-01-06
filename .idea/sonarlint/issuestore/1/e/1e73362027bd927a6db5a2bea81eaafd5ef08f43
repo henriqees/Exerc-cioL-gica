@@ -1,0 +1,22 @@
+
+c
+java:S1659"ADeclare "peso" and all following declarations on a separate line.(†Õ¯üÿÿÿÿ8ÀÔÃ”Ã2
+G	java:S106"+Replace this use of System.out by a logger.(†È°8ÄÔÃ”Ã2
+L	java:S106"+Replace this use of System.out by a logger.(¾“øÀûÿÿÿÿ8ÄÔÃ”Ã2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(œ›©¤úÿÿÿÿ8ÅÔÃ”Ã2
+G
+java:S3457"%String contains no format specifiers.(œ›©¤úÿÿÿÿ8ÅÔÃ”Ã2
+L	java:S106"+Replace this use of System.out by a logger.(œ›©¤úÿÿÿÿ8ÅÔÃ”Ã2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ìµŸ˜şÿÿÿÿ8ÅÔÃ”Ã2
+G
+java:S3457"%String contains no format specifiers.(ìµŸ˜şÿÿÿÿ8ÅÔÃ”Ã2
+L	java:S106"+Replace this use of System.out by a logger.(ìµŸ˜şÿÿÿÿ8ÅÔÃ”Ã2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(”èÀ¶ûÿÿÿÿ8ÆÔÃ”Ã2
+G
+java:S3457"%String contains no format specifiers.(”èÀ¶ûÿÿÿÿ8ÆÔÃ”Ã2
+L	java:S106"+Replace this use of System.out by a logger.(”èÀ¶ûÿÿÿÿ8ÆÔÃ”Ã2
+G	java:S106"+Replace this use of System.out by a logger.(œ’ÎŞ8ÇÔÃ”Ã2
+F	java:S106"+Replace this use of System.out by a logger.(©üÒn8ÇÔÃ”Ã2
