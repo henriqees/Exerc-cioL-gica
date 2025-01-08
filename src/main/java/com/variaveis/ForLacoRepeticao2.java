@@ -13,6 +13,5 @@ public class ForLacoRepeticao2 {
         for (i = num1; i  <= num2; i++){
             System.out.println(i);
         }
-
     }
 }

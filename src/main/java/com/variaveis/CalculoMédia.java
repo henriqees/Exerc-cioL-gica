@@ -19,7 +19,6 @@ public class CalculoMédia {
         nota3 = leitorDoTeclado.nextInt(); //Le do teclado
 
 
-
        media = (nota1 + nota2 + nota3)/ 3;
 
         System.out.println("Média do aluno " + media);
